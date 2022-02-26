@@ -1,0 +1,2 @@
+# newsky.github.io
+static
