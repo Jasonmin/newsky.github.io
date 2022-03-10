@@ -10,7 +10,8 @@
 
 #### 7天试用激活码：
 <g>frxUR37XgnWbsvl2zGa2OLr3bNXg79KhaUWkq3tCG4HSxTybQRZ8u4FF6df3c6b6
-
+### 微信公众号：生长之树
+![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
 
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">

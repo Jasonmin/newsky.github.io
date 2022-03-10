@@ -8,8 +8,12 @@
 - [更新下载地址]( https://pan.baidu.com/s/1NWA4gAun6jSfyvDueXg6Gw)
 - 密码: tdr8
 
-#### 15天试用激活码：
+#### 7天试用激活码：
 <g>fr1MMe9hjWkSS77rb3vVIk9oOLG93Vslc55DcNav1cq1n4VeLnUwnwWOdc4a494f
+
+### 微信公众号：生长之树
+![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
+
 
 
 <head>
