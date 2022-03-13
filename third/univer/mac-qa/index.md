@@ -9,5 +9,6 @@
 3. 选中“任何来源”，然后退出，重新打开之前安装的软件App就可以使用了。如果依旧不可以使用，重新安装一次。
 
 <head>
-    <link rel="stylesheet" type="text/css" href="/style/thirdstyle.css">
+    <link rel="stylesheet" type="text/css" href="../../../style/thirdstyle.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
 </head>
