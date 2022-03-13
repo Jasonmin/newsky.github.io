@@ -9,5 +9,5 @@
 3. 选中“任何来源”，然后退出，重新打开之前安装的软件App就可以使用了。如果依旧不可以使用，重新安装一次。
 
 <head>
-    <link rel="stylesheet" type="text/css" href="thirdstyle.css">
+    <link rel="stylesheet" type="text/css" href="/style/thirdstyle.css">
 </head>
