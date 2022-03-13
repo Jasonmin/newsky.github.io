@@ -3,7 +3,8 @@
 ## 权限授予 chmod u+x *.sh
 
 # 更新css
-cp style.css ./out
+cp outmd/style.css ./out
+cp outmd/thirdmd/thirdstyle.css ./out
 
 # cp assets ./out/assets
 
