@@ -11,16 +11,16 @@
 #### 3. 帮助文档
 里面是app打不开的情况下的两种手动命令行解决方法（自动修复工具中会自动执行）
 
-![](./assets/1.png)
+![](https://jasonmin.github.io/newsky/assets/third-univer-mac-app-tutor/1.png)
 
 ### 二. app包
 大部分情况下可以直接忽略Extra文件夹（Adobe等软件找不到安装包的情况下，点进去看看，安装包会放在Extra中）
 
-![](./assets/2.png)
+![](https://jasonmin.github.io/newsky/assets/third-univer-mac-app-tutor/2.png)
 
 如出现如图提示，说明需要关闭SIP
 
-![](./assets/3.png)
+![](https://jasonmin.github.io/newsky/assets/third-univer-mac-app-tutor/3.png)
 
 ### 三. Mac开启关闭SIP（系统完整性保护）
 #### 1. 查看SIP状态
