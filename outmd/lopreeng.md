@@ -1,10 +1,12 @@
 
-## SwiftPNG usage instructions
+## FastPNG usage instructions
 <br>
 
-### SwiftPNG-Mac/Win (Google Drive)
+### FastPNG-Mac/Win 
+#### UI Interface
+![](https://jasonmin.github.io/newsky/assets/locpr/locpr_ui.png)
 
-#### Download Address:
+#### Download Address(Google Drive):
 - [Download/Update Address] (https://drive.google.com/drive/folders/18r46CjvdDNSjxavIQwepr96pRtEqE1HC?usp=sharing)
 
 #### 15-day trial activation code:
