@@ -5,7 +5,7 @@
 ### 图片裁剪-Mac/Win（百度网盘）
 
 #### 下载地址：
-- [更新下载地址]( https://pan.baidu.com/s/10e6ySMD5vOFHuf8AaNB6ow)
+- [下载/更新地址]( https://pan.baidu.com/s/10e6ySMD5vOFHuf8AaNB6ow)
 - 密码: pu7l
 
 #### 15天试用激活码：

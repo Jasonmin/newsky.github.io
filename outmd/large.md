@@ -5,7 +5,7 @@
 ### 无损放大V-Mac/Win（百度网盘）
 
 #### 下载地址：
-- [更新下载地址](https://pan.baidu.com/s/11hfZ0WtqiJHZDI8lQc3rhg)
+- [下载/更新地址](https://pan.baidu.com/s/11hfZ0WtqiJHZDI8lQc3rhg)
 - 密码: jwpg
 
 #### 试用激活码：

@@ -5,7 +5,7 @@
 
 ### 抠图V200-Mac/Win（百度网盘）
 
-- [更新下载地址](https://pan.baidu.com/s/12Gf586UL4qPty6HAsRABlg)
+- [下载/更新地址](https://pan.baidu.com/s/12Gf586UL4qPty6HAsRABlg)
 - 密码: d6ef
 
 

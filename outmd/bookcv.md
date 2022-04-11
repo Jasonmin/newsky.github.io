@@ -5,7 +5,7 @@
 ### 转书-Mac/Win（百度网盘）
 
 #### 下载地址：
-- [更新下载地址]( https://pan.baidu.com/s/1NWA4gAun6jSfyvDueXg6Gw)
+- [下载/更新地址]( https://pan.baidu.com/s/1NWA4gAun6jSfyvDueXg6Gw)
 - 密码: tdr8
 
 #### 15天试用激活码：
