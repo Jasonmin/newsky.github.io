@@ -52,8 +52,10 @@
 ### <green>15-day trial activation code:
 <g>frYhu66qLpAaol5LmN6yo3S9wc2rRp4QKoSr9TYVGbih6x0SMOtfyZWF066ade62
 
-### <green>Twitter
+### <green>How to contact me
 - johnnyEra / @313410158Er
+- Email: stephenchous@gmail.com
+- Skype ID: stephenchous@gmail.com
 
 <head>
     <link rel="stylesheet" type="text/css" href="../style/style.css">
