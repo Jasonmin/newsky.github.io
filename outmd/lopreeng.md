@@ -55,7 +55,8 @@
 ### <green>How to contact me
 - johnnyEra / @313410158Er
 - Email: stephenchous@gmail.com
-- Skype ID: stephenchous@gmail.com
+- Skype:
+![](https://jasonmin.github.io/newsky/assets/skype/qr.jpg)
 
 <head>
     <link rel="stylesheet" type="text/css" href="../style/style.css">
