@@ -53,10 +53,11 @@
 <g>frYhu66qLpAaol5LmN6yo3S9wc2rRp4QKoSr9TYVGbih6x0SMOtfyZWF066ade62
 
 ### <green>How to contact me
-- johnnyEra / @313410158Er
-- Email: stephenchous@gmail.com
-- Skype:
-![](https://jasonmin.github.io/newsky/assets/skype/qr.jpg)
+- Twitter: johnnyEra / @313410158Er
+- Email: stephenchous@gmail.com    
+- Skype:    
+<img src="https://jasonmin.github.io/newsky/assets/skype/qr.jpg" width="200">
+<!-- ![](https://jasonmin.github.io/newsky/assets/skype/qr.jpg 200x200) -->
 
 <head>
     <link rel="stylesheet" type="text/css" href="../style/style.css">
