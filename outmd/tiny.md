@@ -3,7 +3,11 @@
 <!-- <right>20220112</right> -->
 <br>
 
-### 压图V-Mac/Win（百度网盘）
+### TinyPNG压图V-Mac/Win
+- 微云（不限速）
+链接：https://share.weiyun.com/6KQt9qbb 密码：tbxij2
+- 百度网盘
+链接: https://pan.baidu.com/s/1q3WPfEVG-j-XSsw8N9WnvQ 提取码: 9usm
 
 - [下载/更新地址](https://pan.baidu.com/s/1q3WPfEVG-j-XSsw8N9WnvQ)
 - 密码: 9usm
