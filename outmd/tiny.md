@@ -9,9 +9,6 @@
 - 百度网盘
 链接: https://pan.baidu.com/s/1q3WPfEVG-j-XSsw8N9WnvQ 提取码: 9usm
 
-- [下载/更新地址](https://pan.baidu.com/s/1q3WPfEVG-j-XSsw8N9WnvQ)
-- 密码: 9usm
-
 ### 微信公众号：生长之树
 ![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
 
