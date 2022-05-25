@@ -8,7 +8,7 @@
 - 百度网盘
 https://pan.baidu.com/s/1gMTXpTZSFEG6rbY89d7Jzw 提取码: muu4
 
-#### 试用激活码：
+#### 试用<可用1000张>激活码：
 <g>frrow38t98katVrl7vAzc6f2o3L8Wc0p4hk7sr2dO439EuVMC413nvpX022fd9c2
 
 
