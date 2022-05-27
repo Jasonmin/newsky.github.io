@@ -1,6 +1,9 @@
 
-## NCM转Mp3使用说明
+## 音频转换使用说明
 <br>
+
+### 目前支持<即将支持更多格式>：
+- ncm 转 mp3
 
 <!-- ### 优速压图-Mac/Win（百度网盘）
 
@@ -11,7 +14,6 @@
 
 ### 微信公众号：生长之树
 ![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
-
 
 
 <head>
