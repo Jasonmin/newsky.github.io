@@ -5,12 +5,13 @@
 ### 目前支持<即将支持更多格式>：
 - ncm 转 mp3
 
-<!-- ### 优速压图-Mac/Win（百度网盘）
 
 #### 下载地址：
-- [下载/更新地址]( https://pan.baidu.com/s/1jTd2fQn-BYXvRZ-tWvy0zw)
-- 密码: t9ni -->
+- 微云（不限速）
+链接：https://share.weiyun.com/pkByishH 密码：kfhshf
 
+#### 试用<可用3天>激活码：
+<g>frnuP644Musm4IFizp1Pn13c7d8IoUQGm9kQuyaiMpO4h7PJUl7MckuOa960f942
 
 ### 微信公众号：生长之树
 ![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
