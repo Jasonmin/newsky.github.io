@@ -1,14 +1,11 @@
 
-
 ## Technical support
 <br>
 
 - Please feel free to contact me if you have any question
 - Email: mintree@icloud.com
-<!-- ## 音频格式转换使用说明
-<br>
 
-### 音转-Mac/Win（百度网盘）
+<!-- ### 音转-Mac/Win（百度网盘）
 
 #### 下载地址：
 - [下载/更新地址]( https://pan.baidu.com/s/1jTd2fQn-BYXvRZ-tWvy0zw)
@@ -23,5 +20,5 @@
 
 
 <head>
-    <link rel="stylesheet" type="text/css" href="../style/style.css">
+    <link rel="stylesheet" type="text/css" href="../../style/style.css">
 </head>
