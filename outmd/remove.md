@@ -4,8 +4,10 @@
 <br>
 
 ### 抠图V200-Mac/Win：
-- 微云（不限速）
-链接：https://share.weiyun.com/7joiQ4J6 密码：uhei4g
+<!-- - 微云（不限速）
+链接：https://share.weiyun.com/7joiQ4J6 密码：uhei4g -->
+- 蓝奏云（不限速）
+https://wwp.lanzouw.com/b02pcmqyh  密码:7uao
 - 百度网盘
 https://pan.baidu.com/s/12Gf586UL4qPty6HAsRABlg 密码: d6ef
 
