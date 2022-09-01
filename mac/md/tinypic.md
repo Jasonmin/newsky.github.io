@@ -1,5 +1,5 @@
 
-## <green>TinyPic</green>
+## TinyPic
 - Easily batch compressing images
 <br>
 
