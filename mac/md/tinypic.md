@@ -1,5 +1,5 @@
 
-## <green>TinyPic
+## <green>TinyPic</green>
 - Easily batch compressing images
 <br>
 
@@ -15,5 +15,5 @@
 - Email: mintree@icloud.com
 
 <head>
-    <link rel="stylesheet" type="text/css" href="../style/style.css">
+    <link rel="stylesheet" type="text/css" href="../../style/style.css">
 </head>
