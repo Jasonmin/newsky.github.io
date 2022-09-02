@@ -4,7 +4,7 @@
 <br>
 
 ### <green>Feature
-- Batch enlarging images losslessly, automatically scan directories, one-click compression
+- Batch enlarging images losslessly, automatically scan directories, one-click processing 
 - Nice processing speed, nice effect
 - Completely hands-free and save you a lot of working time
 
