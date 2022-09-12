@@ -13,7 +13,7 @@ https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
 
 
 #### 试用激活码：
-> <g>目前大约有1/10的Windows系统电脑会处理失败，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码
+> <g>目前大约有1/10的Windows系统电脑会处理失败，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用10张
 
 
 <g>frxUR37XgnWbsvl2zGa2OLr3bNXg79KhaUWkq3tCG4HSxTybQRZ8u4FF6df3c6b6
