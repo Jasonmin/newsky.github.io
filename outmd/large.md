@@ -18,7 +18,7 @@ https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
 
 <g>frxUR37XgnWbsvl2zGa2OLr3bNXg79KhaUWkq3tCG4HSxTybQRZ8u4FF6df3c6b6
 
-### <green>关于邀请活动
+<!-- ### <green>关于邀请活动
 #### 邀请简介
 - 自1.25版本，邀请入口面向月度以上用户开放，升级到1.25版本后展示邀请码，受邀方激活时<月度以上>输入邀请方提供的邀请码，成功激活后双方均可获取一定使用时长奖励，邀请方奖励额达到目标值后，可向店家申请升级为<green>永久版本
 #### 邀请规则
@@ -38,12 +38,12 @@ https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
 - 截止时间到达之前，达到升级永久版本条件的，将持续可使用永久版本
 
 #### 永久版本说明
-- 升级永久版本表示您接受上述规则
+- 升级永久版本表示您接受上述规则 -->
 
 ### <green>微信公众号：生长之树
 ![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
 
-### <green>本产品淘宝店铺地址
+### <green>本产品淘宝店铺主地址
 - 链接: https://item.taobao.com/item.htm?id=661071557523
 
 <!-- ### <green>产品推荐
