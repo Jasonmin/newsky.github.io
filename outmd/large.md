@@ -13,7 +13,7 @@ https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
 
 
 #### 试用激活码：
-> <g>目前大约有1/10的Windows系统电脑会处理失败，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用10张
+> <g>目前大约有1/10的Windows系统电脑会处理失败(一般为显卡不兼容导致)，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用30张，激活当天有效
 
 
 <g>frxUR37XgnWbsvl2zGa2OLr3bNXg79KhaUWkq3tCG4HSxTybQRZ8u4FF6df3c6b6
@@ -44,6 +44,7 @@ https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
 ![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
 
 ### <green>本产品淘宝店铺主地址
+- 主商品地址：24小时自动发货，可下单月度以上版本，数量不限
 - 链接: https://item.taobao.com/item.htm?id=661071557523
 
 <!-- ### <green>产品推荐
