@@ -6,3 +6,6 @@
 
 #### 2. 优速压图 - 批量图片压缩软件（近乎TinyPNG，更快更稳定）
 [前往查看](https://jasonmin.github.io/newsky/out/lopress)
+
+#### 3. 图边 - 批量图片描边/添加边框
+[前往查看](https://jasonmin.github.io/newsky/out/qsk)
