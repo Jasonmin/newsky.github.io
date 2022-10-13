@@ -8,8 +8,8 @@
 链接：https://share.weiyun.com/sZ33HPeZ 密码：qpt33t -->
 - 蓝奏云（不限速）
 https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
-- 百度网盘
-链接: https://pan.baidu.com/s/11hfZ0WtqiJHZDI8lQc3rhg  密码: jwpg
+<!-- - 百度网盘
+链接: https://pan.baidu.com/s/11hfZ0WtqiJHZDI8lQc3rhg  密码: jwpg -->
 
 
 #### 试用激活码：
