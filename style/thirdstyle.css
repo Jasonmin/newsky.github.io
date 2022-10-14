@@ -16,7 +16,8 @@ a {
 }
 
 green {
-    color: #3b6d24
+    color: #3b6d24;
+    font-weight: bold;
 }
 
 g {
