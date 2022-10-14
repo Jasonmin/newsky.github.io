@@ -42,7 +42,7 @@ https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
 
 ### <green>本产品淘宝店铺主地址
 - 产品主地址：24小时自动发货，可下单月度以上版本，数量不限
-- 链接: https://item.taobao.com/item.htm?id=672197298291
+- 链接: https://item.taobao.com/item.htm?id=661071557523
 
 ### <green>微信公众号：生长之树
 ![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
