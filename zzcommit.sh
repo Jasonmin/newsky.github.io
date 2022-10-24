@@ -8,7 +8,10 @@
 
 # cp assets ./out/assets
 
+# 拉取
+git pull
+
 # 代码git提交
 git add .
-git commit -m 'c'
+git commit -m "`date +%Y-%m-%d,%H:%m`"
 git push
