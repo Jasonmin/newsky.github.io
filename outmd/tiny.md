@@ -8,8 +8,8 @@
 https://wwp.lanzouw.com/b02pgxy5g 密码:dkq3
 <!-- - 微云（不限速）
 链接：https://share.weiyun.com/6KQt9qbb 密码：tbxij2 -->
-- 百度网盘
-链接: https://pan.baidu.com/s/1q3WPfEVG-j-XSsw8N9WnvQ 提取码: 9usm
+<!-- - 百度网盘
+链接: https://pan.baidu.com/s/1q3WPfEVG-j-XSsw8N9WnvQ 提取码: 9usm -->
 
 ### <green>关于邀请活动
 #### 邀请简介
