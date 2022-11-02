@@ -1,11 +1,13 @@
 
-## 图扩HD使用说明
+## 图扩HD 使用说明
 <br>
 
-### 图扩HDV-Mac/Win
+### 图扩HD Mac/Win
 
-- 蓝奏云（不限速）
-https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
+- 蓝奏云（Win版）
+https://wwp.lanzouw.com/b02pqrs0j 密码:8g2u
+- 蓝奏云（Win版 + MacOS版）
+https://pan.baidu.com/s/1lJBrEWIaR8C78dTLY6aErg  密码: 5tmq
 
 
 #### 试用激活码：
