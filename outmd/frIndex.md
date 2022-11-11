@@ -4,7 +4,7 @@
 #### 1. <green>图扩</green>（购前试用） - BigJpg批量无损放大软件（非官方版）| 推荐指数：★★★
 [前往查看](https://jasonmin.github.io/newsky/out/large)
 
-#### 2. <green>图扩HD</green>（购前试用） - 批量无损放大软件,图片清晰化（处理速度较慢）| 推荐指数：★★
+#### 2. <green>图扩HD</green>（购前试用） - 批量无损放大软件,模糊图片清晰化（不适用人像，处理速度较慢）| 推荐指数：★★
 [前往查看](https://jasonmin.github.io/newsky/out/largehd)
 
 #### 3. <green>RemoveBG半智能抠图</green>（购前试用） - 支持导出RemoveBG高清图| 推荐指数：★★★
