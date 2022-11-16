@@ -13,10 +13,10 @@ fi
 # 日志
 # echo $message
 
-# 拉取
-git pull
-
 # 提交并推送
 git add .
 git commit -m "$message"
+
+# 拉取
+git pull
 git push
