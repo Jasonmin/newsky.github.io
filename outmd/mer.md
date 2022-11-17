@@ -9,7 +9,7 @@
 - 密码: t9ni -->
 
 ### RemoveBG半智能抠图-Mac/Win
-- 蓝奏云（不限速）
+- 蓝奏云网盘（可网页直接下载）（不限速）
 https://wwp.lanzouw.com/b02pd8ipc 密码:e15u
 
 ### 试用激活码：

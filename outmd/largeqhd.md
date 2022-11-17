@@ -4,9 +4,9 @@
 
 ### 图扩HD Mac/Win
 
-- 蓝奏云（Win版）
+- 蓝奏云网盘（可网页直接下载）（Win版）
 https://wwp.lanzouw.com/b02pqrs0j 密码:8g2u
-- 蓝奏云（Win版 + MacOS版）
+- 蓝奏云网盘（可网页直接下载）（Win版 + MacOS版）
 https://pan.baidu.com/s/1lJBrEWIaR8C78dTLY6aErg  密码: 5tmq
 
 

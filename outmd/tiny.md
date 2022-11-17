@@ -4,7 +4,7 @@
 <br>
 
 ### TinyPNG压图V-Mac/Win
-- 蓝奏云（不限速）
+- 蓝奏云网盘（可网页直接下载）（不限速）
 https://wwp.lanzouw.com/b02pgxy5g 密码:dkq3
 <!-- - 微云（不限速）
 链接：https://share.weiyun.com/6KQt9qbb 密码：tbxij2 -->

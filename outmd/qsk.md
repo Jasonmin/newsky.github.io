@@ -4,7 +4,7 @@
 <br>
 
 ### 图边-Mac/Win
-- 蓝奏云（不限速）
+- 蓝奏云网盘（可网页直接下载）（不限速）
 https://wwp.lanzouw.com/b02pn6l7a 密码:hnsj
 
 ### 微信公众号：生长之树

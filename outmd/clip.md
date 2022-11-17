@@ -5,7 +5,7 @@
 ### 图片裁剪-Mac/Win
 
 #### 下载地址：
-- 蓝奏云
+- 蓝奏云网盘（可网页直接下载）
 https://wwp.lanzouw.com/b02plj1ji 密码:c75c
 
 <!-- - [下载/更新地址]( https://pan.baidu.com/s/10e6ySMD5vOFHuf8AaNB6ow)

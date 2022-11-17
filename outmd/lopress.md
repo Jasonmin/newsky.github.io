@@ -3,7 +3,7 @@
 <br>
 
 ### 优速压图-Mac/Win
-- 蓝奏云（不限速）
+- 蓝奏云网盘（可网页直接下载）（不限速）
 https://wwp.lanzouw.com/b02peda1g 密码:97n1
 <!-- - 百度网盘
 https://pan.baidu.com/s/1gMTXpTZSFEG6rbY89d7Jzw 提取码: muu4 -->

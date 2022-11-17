@@ -6,7 +6,7 @@
 ### 抠图V200-Mac/Win：
 <!-- - 微云（不限速）
 链接：https://share.weiyun.com/7joiQ4J6 密码：uhei4g -->
-- 蓝奏云（不限速,新版优先上传，推荐）
+- 蓝奏云网盘（可网页直接下载）（不限速,新版优先上传，推荐）
 https://wwp.lanzouw.com/b02pcmqyh  密码:7uao
 <!-- - 百度网盘
 https://pan.baidu.com/s/12Gf586UL4qPty6HAsRABlg 密码: d6ef -->
