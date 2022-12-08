@@ -1,0 +1,1276 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>&#x62a0;&#x56fe;&#x5de5;&#x5177;&#x4f7f;&#x7528;&#x6559;&#x7a0b;</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+/* From extension bierner.markdown-preview-github-styles */
+body {
+    background: white;
+}
+
+.vscode-body {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid transparent;
+}
+
+.vscode-body blockquote {
+    background-color: initial;
+}
+
+.vscode-body pre {
+    color: initial;
+    background: #f7f7f7 !important;
+}
+
+.vscode-body code {
+    color: inherit;
+}
+
+.vscode-body pre code {
+    color: initial;
+}
+
+.vscode-body code > div {
+    background: none
+}
+
+.vscode-body table th,
+.vscode-body table td {
+    border: 1px solid #ddd !important;
+}
+
+.vscode-body.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-body.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-body.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-body p,
+.vscode-body blockquote,
+.vscode-body ul,
+.vscode-body ol,
+.vscode-body dl,
+.vscode-body table,
+.vscode-body pre {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+body.vscode-body::-webkit-scrollbar {
+    background-color: white;
+}
+body.vscode-body::-webkit-scrollbar-thumb {
+    background-color: rgba(100, 100, 100, 0.4);
+}
+body.vscode-body::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(100, 100, 100, 0.7);
+}
+
+/* Generated from 'node_modules/github-markdown-css/github-markdown.css' */
+.vscode-body .octicon {
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+.vscode-body .anchor {
+  float: left;
+  line-height: 1;
+  margin-left: -20px;
+  padding-right: 4px;
+}
+
+.vscode-body .anchor:focus {
+  outline: none;
+}
+
+.vscode-body h1 .octicon-link,
+.vscode-body h2 .octicon-link,
+.vscode-body h3 .octicon-link,
+.vscode-body h4 .octicon-link,
+.vscode-body h5 .octicon-link,
+.vscode-body h6 .octicon-link {
+  color: #1b1f23;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+.vscode-body h1:hover .anchor,
+.vscode-body h2:hover .anchor,
+.vscode-body h3:hover .anchor,
+.vscode-body h4:hover .anchor,
+.vscode-body h5:hover .anchor,
+.vscode-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.vscode-body h1:hover .anchor .octicon-link,
+.vscode-body h2:hover .anchor .octicon-link,
+.vscode-body h3:hover .anchor .octicon-link,
+.vscode-body h4:hover .anchor .octicon-link,
+.vscode-body h5:hover .anchor .octicon-link,
+.vscode-body h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+.vscode-body h1:hover .anchor .octicon-link:before,
+.vscode-body h2:hover .anchor .octicon-link:before,
+.vscode-body h3:hover .anchor .octicon-link:before,
+.vscode-body h4:hover .anchor .octicon-link:before,
+.vscode-body h5:hover .anchor .octicon-link:before,
+.vscode-body h6:hover .anchor .octicon-link:before {
+  width: 16px;
+  height: 16px;
+  content: ' ';
+  display: inline-block;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' version='1.1' width='16' height='16' aria-hidden='true'%3E%3Cpath fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z'%3E%3C/path%3E%3C/svg%3E");
+}.vscode-body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.5;
+  color: #24292e;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.vscode-body details {
+  display: block;
+}
+
+.vscode-body summary {
+  display: list-item;
+}
+
+.vscode-body a {
+  background-color: initial;
+}
+
+.vscode-body a:active,
+.vscode-body a:hover {
+  outline-width: 0;
+}
+
+.vscode-body strong {
+  font-weight: inherit;
+  font-weight: bolder;
+}
+
+.vscode-body h1 {
+  font-size: 2em;
+  margin: .67em 0;
+}
+
+.vscode-body img {
+  border-style: none;
+}
+
+.vscode-body code,
+.vscode-body kbd,
+.vscode-body pre {
+  font-family: monospace,monospace;
+  font-size: 1em;
+}
+
+.vscode-body hr {
+  box-sizing: initial;
+  height: 0;
+  overflow: visible;
+}
+
+.vscode-body input {
+  font: inherit;
+  margin: 0;
+}
+
+.vscode-body input {
+  overflow: visible;
+}
+
+.vscode-body [type=checkbox] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.vscode-body * {
+  box-sizing: border-box;
+}
+
+.vscode-body input {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.vscode-body a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.vscode-body a:hover {
+  text-decoration: underline;
+}
+
+.vscode-body strong {
+  font-weight: 600;
+}
+
+.vscode-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #dfe2e5;
+}
+
+.vscode-body hr:after,
+.vscode-body hr:before {
+  display: table;
+  content: "";
+}
+
+.vscode-body hr:after {
+  clear: both;
+}
+
+.vscode-body table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.vscode-body td,
+.vscode-body th {
+  padding: 0;
+}
+
+.vscode-body details summary {
+  cursor: pointer;
+}
+
+.vscode-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  line-height: 10px;
+  color: #444d56;
+  vertical-align: middle;
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #d1d5da;
+}
+
+.vscode-body h1,
+.vscode-body h2,
+.vscode-body h3,
+.vscode-body h4,
+.vscode-body h5,
+.vscode-body h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.vscode-body h1 {
+  font-size: 32px;
+}
+
+.vscode-body h1,
+.vscode-body h2 {
+  font-weight: 600;
+}
+
+.vscode-body h2 {
+  font-size: 24px;
+}
+
+.vscode-body h3 {
+  font-size: 20px;
+}
+
+.vscode-body h3,
+.vscode-body h4 {
+  font-weight: 600;
+}
+
+.vscode-body h4 {
+  font-size: 16px;
+}
+
+.vscode-body h5 {
+  font-size: 14px;
+}
+
+.vscode-body h5,
+.vscode-body h6 {
+  font-weight: 600;
+}
+
+.vscode-body h6 {
+  font-size: 12px;
+}
+
+.vscode-body p {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.vscode-body blockquote {
+  margin: 0;
+}
+
+.vscode-body ol,
+.vscode-body ul {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.vscode-body ol ol,
+.vscode-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.vscode-body ol ol ol,
+.vscode-body ol ul ol,
+.vscode-body ul ol ol,
+.vscode-body ul ul ol {
+  list-style-type: lower-alpha;
+}
+
+.vscode-body dd {
+  margin-left: 0;
+}
+
+.vscode-body code,
+.vscode-body pre {
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  font-size: 12px;
+}
+
+.vscode-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.vscode-body input::-webkit-inner-spin-button,
+.vscode-body input::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.vscode-body :checked+.radio-label {
+  position: relative;
+  z-index: 1;
+  border-color: #0366d6;
+}
+
+.vscode-body .border {
+  border: 1px solid #e1e4e8!important;
+}
+
+.vscode-body .border-0 {
+  border: 0!important;
+}
+
+.vscode-body .border-bottom {
+  border-bottom: 1px solid #e1e4e8!important;
+}
+
+.vscode-body .rounded-1 {
+  border-radius: 3px!important;
+}
+
+.vscode-body .bg-white {
+  background-color: #fff!important;
+}
+
+.vscode-body .bg-gray-light {
+  background-color: #fafbfc!important;
+}
+
+.vscode-body .text-gray-light {
+  color: #6a737d!important;
+}
+
+.vscode-body .mb-0 {
+  margin-bottom: 0!important;
+}
+
+.vscode-body .my-2 {
+  margin-top: 8px!important;
+  margin-bottom: 8px!important;
+}
+
+.vscode-body .pl-0 {
+  padding-left: 0!important;
+}
+
+.vscode-body .py-0 {
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+}
+
+.vscode-body .pl-1 {
+  padding-left: 4px!important;
+}
+
+.vscode-body .pl-2 {
+  padding-left: 8px!important;
+}
+
+.vscode-body .py-2 {
+  padding-top: 8px!important;
+  padding-bottom: 8px!important;
+}
+
+.vscode-body .pl-3,
+.vscode-body .px-3 {
+  padding-left: 16px!important;
+}
+
+.vscode-body .px-3 {
+  padding-right: 16px!important;
+}
+
+.vscode-body .pl-4 {
+  padding-left: 24px!important;
+}
+
+.vscode-body .pl-5 {
+  padding-left: 32px!important;
+}
+
+.vscode-body .pl-6 {
+  padding-left: 40px!important;
+}
+
+.vscode-body .f6 {
+  font-size: 12px!important;
+}
+
+.vscode-body .lh-condensed {
+  line-height: 1.25!important;
+}
+
+.vscode-body .text-bold {
+  font-weight: 600!important;
+}
+
+.vscode-body .pl-c {
+  color: #6a737d;
+}
+
+.vscode-body .pl-c1,
+.vscode-body .pl-s .pl-v {
+  color: #005cc5;
+}
+
+.vscode-body .pl-e,
+.vscode-body .pl-en {
+  color: #6f42c1;
+}
+
+.vscode-body .pl-s .pl-s1,
+.vscode-body .pl-smi {
+  color: #24292e;
+}
+
+.vscode-body .pl-ent {
+  color: #22863a;
+}
+
+.vscode-body .pl-k {
+  color: #d73a49;
+}
+
+.vscode-body .pl-pds,
+.vscode-body .pl-s,
+.vscode-body .pl-s .pl-pse .pl-s1,
+.vscode-body .pl-sr,
+.vscode-body .pl-sr .pl-cce,
+.vscode-body .pl-sr .pl-sra,
+.vscode-body .pl-sr .pl-sre {
+  color: #032f62;
+}
+
+.vscode-body .pl-smw,
+.vscode-body .pl-v {
+  color: #e36209;
+}
+
+.vscode-body .pl-bu {
+  color: #b31d28;
+}
+
+.vscode-body .pl-ii {
+  color: #fafbfc;
+  background-color: #b31d28;
+}
+
+.vscode-body .pl-c2 {
+  color: #fafbfc;
+  background-color: #d73a49;
+}
+
+.vscode-body .pl-c2:before {
+  content: "^M";
+}
+
+.vscode-body .pl-sr .pl-cce {
+  font-weight: 700;
+  color: #22863a;
+}
+
+.vscode-body .pl-ml {
+  color: #735c0f;
+}
+
+.vscode-body .pl-mh,
+.vscode-body .pl-mh .pl-en,
+.vscode-body .pl-ms {
+  font-weight: 700;
+  color: #005cc5;
+}
+
+.vscode-body .pl-mi {
+  font-style: italic;
+  color: #24292e;
+}
+
+.vscode-body .pl-mb {
+  font-weight: 700;
+  color: #24292e;
+}
+
+.vscode-body .pl-md {
+  color: #b31d28;
+  background-color: #ffeef0;
+}
+
+.vscode-body .pl-mi1 {
+  color: #22863a;
+  background-color: #f0fff4;
+}
+
+.vscode-body .pl-mc {
+  color: #e36209;
+  background-color: #ffebda;
+}
+
+.vscode-body .pl-mi2 {
+  color: #f6f8fa;
+  background-color: #005cc5;
+}
+
+.vscode-body .pl-mdr {
+  font-weight: 700;
+  color: #6f42c1;
+}
+
+.vscode-body .pl-ba {
+  color: #586069;
+}
+
+.vscode-body .pl-sg {
+  color: #959da5;
+}
+
+.vscode-body .pl-corl {
+  text-decoration: underline;
+  color: #032f62;
+}
+
+.vscode-body .mb-0 {
+  margin-bottom: 0!important;
+}
+
+.vscode-body .my-2 {
+  margin-bottom: 8px!important;
+}
+
+.vscode-body .my-2 {
+  margin-top: 8px!important;
+}
+
+.vscode-body .pl-0 {
+  padding-left: 0!important;
+}
+
+.vscode-body .py-0 {
+  padding-top: 0!important;
+  padding-bottom: 0!important;
+}
+
+.vscode-body .pl-1 {
+  padding-left: 4px!important;
+}
+
+.vscode-body .pl-2 {
+  padding-left: 8px!important;
+}
+
+.vscode-body .py-2 {
+  padding-top: 8px!important;
+  padding-bottom: 8px!important;
+}
+
+.vscode-body .pl-3 {
+  padding-left: 16px!important;
+}
+
+.vscode-body .pl-4 {
+  padding-left: 24px!important;
+}
+
+.vscode-body .pl-5 {
+  padding-left: 32px!important;
+}
+
+.vscode-body .pl-6 {
+  padding-left: 40px!important;
+}
+
+.vscode-body .pl-7 {
+  padding-left: 48px!important;
+}
+
+.vscode-body .pl-8 {
+  padding-left: 64px!important;
+}
+
+.vscode-body .pl-9 {
+  padding-left: 80px!important;
+}
+
+.vscode-body .pl-10 {
+  padding-left: 96px!important;
+}
+
+.vscode-body .pl-11 {
+  padding-left: 112px!important;
+}
+
+.vscode-body .pl-12 {
+  padding-left: 128px!important;
+}
+
+.vscode-body hr {
+  border-bottom-color: #eee;
+}
+
+.vscode-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  line-height: 10px;
+  color: #444d56;
+  vertical-align: middle;
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #d1d5da;
+}
+
+.vscode-body:after,
+.vscode-body:before {
+  display: table;
+  content: "";
+}
+
+.vscode-body:after {
+  clear: both;
+}
+
+.vscode-body>:first-child {
+  margin-top: 0!important;
+}
+
+.vscode-body>:last-child {
+  margin-bottom: 0!important;
+}
+
+.vscode-body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+.vscode-body blockquote,
+.vscode-body details,
+.vscode-body dl,
+.vscode-body ol,
+.vscode-body p,
+.vscode-body pre,
+.vscode-body table,
+.vscode-body ul {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.vscode-body hr {
+  height: .25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: #e1e4e8;
+  border: 0;
+}
+
+.vscode-body blockquote {
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: .25em solid #dfe2e5;
+}
+
+.vscode-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.vscode-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.vscode-body h1,
+.vscode-body h2,
+.vscode-body h3,
+.vscode-body h4,
+.vscode-body h5,
+.vscode-body h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.vscode-body h1 {
+  font-size: 2em;
+}
+
+.vscode-body h1,
+.vscode-body h2 {
+  padding-bottom: .3em;
+  border-bottom: 1px solid #eaecef;
+}
+
+.vscode-body h2 {
+  font-size: 1.5em;
+}
+
+.vscode-body h3 {
+  font-size: 1.25em;
+}
+
+.vscode-body h4 {
+  font-size: 1em;
+}
+
+.vscode-body h5 {
+  font-size: .875em;
+}
+
+.vscode-body h6 {
+  font-size: .85em;
+  color: #6a737d;
+}
+
+.vscode-body ol,
+.vscode-body ul {
+  padding-left: 2em;
+}
+
+.vscode-body ol ol,
+.vscode-body ol ul,
+.vscode-body ul ol,
+.vscode-body ul ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.vscode-body li {
+  word-wrap: break-all;
+}
+
+.vscode-body li>p {
+  margin-top: 16px;
+}
+
+.vscode-body li+li {
+  margin-top: .25em;
+}
+
+.vscode-body dl {
+  padding: 0;
+}
+
+.vscode-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.vscode-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.vscode-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+}
+
+.vscode-body table th {
+  font-weight: 600;
+}
+
+.vscode-body table td,
+.vscode-body table th {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+.vscode-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+.vscode-body table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+.vscode-body img {
+  max-width: 100%;
+  box-sizing: initial;
+  background-color: #fff;
+}
+
+.vscode-body img[align=right] {
+  padding-left: 20px;
+}
+
+.vscode-body img[align=left] {
+  padding-right: 20px;
+}
+
+.vscode-body code {
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+}
+
+.vscode-body pre {
+  word-wrap: normal;
+}
+
+.vscode-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.vscode-body .highlight {
+  margin-bottom: 16px;
+}
+
+.vscode-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.vscode-body .highlight pre,
+.vscode-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f6f8fa;
+  border-radius: 3px;
+}
+
+.vscode-body pre code {
+  display: inline;
+  max-width: auto;
+  padding: 0;
+  margin: 0;
+  overflow: visible;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: initial;
+  border: 0;
+}
+
+.vscode-body .commit-tease-sha {
+  display: inline-block;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  font-size: 90%;
+  color: #444d56;
+}
+
+.vscode-body .full-commit .btn-outline:not(:disabled):hover {
+  color: #005cc5;
+  border-color: #005cc5;
+}
+
+.vscode-body .blob-wrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.vscode-body .blob-wrapper-embedded {
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.vscode-body .blob-num {
+  width: 1%;
+  min-width: 50px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  font-size: 12px;
+  line-height: 20px;
+  color: rgba(27,31,35,.3);
+  text-align: right;
+  white-space: nowrap;
+  vertical-align: top;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.vscode-body .blob-num:hover {
+  color: rgba(27,31,35,.6);
+}
+
+.vscode-body .blob-num:before {
+  content: attr(data-line-number);
+}
+
+.vscode-body .blob-code {
+  position: relative;
+  padding-right: 10px;
+  padding-left: 10px;
+  line-height: 20px;
+  vertical-align: top;
+}
+
+.vscode-body .blob-code-inner {
+  overflow: visible;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  font-size: 12px;
+  color: #24292e;
+  word-wrap: normal;
+  white-space: pre;
+}
+
+.vscode-body .pl-token.active,
+.vscode-body .pl-token:hover {
+  cursor: pointer;
+  background: #ffea7f;
+}
+
+.vscode-body .tab-size[data-tab-size="1"] {
+  -moz-tab-size: 1;
+  tab-size: 1;
+}
+
+.vscode-body .tab-size[data-tab-size="2"] {
+  -moz-tab-size: 2;
+  tab-size: 2;
+}
+
+.vscode-body .tab-size[data-tab-size="3"] {
+  -moz-tab-size: 3;
+  tab-size: 3;
+}
+
+.vscode-body .tab-size[data-tab-size="4"] {
+  -moz-tab-size: 4;
+  tab-size: 4;
+}
+
+.vscode-body .tab-size[data-tab-size="5"] {
+  -moz-tab-size: 5;
+  tab-size: 5;
+}
+
+.vscode-body .tab-size[data-tab-size="6"] {
+  -moz-tab-size: 6;
+  tab-size: 6;
+}
+
+.vscode-body .tab-size[data-tab-size="7"] {
+  -moz-tab-size: 7;
+  tab-size: 7;
+}
+
+.vscode-body .tab-size[data-tab-size="8"] {
+  -moz-tab-size: 8;
+  tab-size: 8;
+}
+
+.vscode-body .tab-size[data-tab-size="9"] {
+  -moz-tab-size: 9;
+  tab-size: 9;
+}
+
+.vscode-body .tab-size[data-tab-size="10"] {
+  -moz-tab-size: 10;
+  tab-size: 10;
+}
+
+.vscode-body .tab-size[data-tab-size="11"] {
+  -moz-tab-size: 11;
+  tab-size: 11;
+}
+
+.vscode-body .tab-size[data-tab-size="12"] {
+  -moz-tab-size: 12;
+  tab-size: 12;
+}
+
+.vscode-body .task-list-item {
+  list-style-type: none;
+}
+
+.vscode-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.vscode-body .task-list-item input {
+  margin: 0 .2em .25em -1.6em;
+  vertical-align: middle;
+}
+
+/*
+
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="抠图工具使用教程">抠图工具使用教程</h1>
+<h3 id="1-下载软件安装打开软件输入激活码激活码在发货单中请用快捷键复制粘贴可选中激活码拖进输入框点立刻激活请保存好您的激活码">1. 下载软件安装，打开软件，输入激活码&lt;<font color=red>激活码在发货单中</font>&gt;，请用快捷键复制粘贴，可选中激活码拖进输入框，点立刻激活（请保存好您的激活码）</h3>
+<h3 id="2-注册获取removebg-api密钥有邮箱即可无额外费用注册成功后登录账户登录成功后打开控制面板切换到-api密钥栏点击创建api密钥即可生成并复制api密钥">2. 注册获取Removebg API密钥（<font color=red>有邮箱即可,无额外费用</font>），注册成功后登录账户，登录成功后打开控制面板，切换到 API密钥栏，点击创建API密钥，即可生成并复制API密钥</h3>
+<p>注册地址:
+<a href="https://accounts.kaleido.ai/users/sign_up">https://accounts.kaleido.ai/users/sign_up</a><br>
+或访问中文版地址，点击右上方按钮注册：
+<a href="https://www.remove.bg/zh">https://www.remove.bg/zh</a>
+<img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/Xnip2021-11-24_17-24-35.jpg" alt=""></p>
+<p>注册成功后，登录并打开 控制面版
+<img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/Xnip2022-08-02_17-49-50.jpg" alt="">
+<img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/Xnip2022-08-02_17-51-13.jpg" alt="">
+<img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/Xnip2022-08-02_17-52-54.jpg" alt="">
+<img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/Xnip2022-08-02_17-53-23.jpg" alt=""></p>
+<h3 id="3-在工具中增加api-key框中输入获取的api-key点击增加每个api-key仅需配置一次">3. 在工具中增加API Key框中，输入获取的API Key，点击增加（每个API Key仅需配置一次）</h3>
+<p><img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/Xnip2022-08-02_17-54-26.jpg" alt=""></p>
+<h3 id="4-拖入待处理的文件或文件夹点击开始抠图">4. 拖入待处理的文件或文件夹，点击开始抠图</h3>
+<h3 id="5-注意事项">5. <font color=red>注意事项</font></h3>
+<ol>
+<li>Mac版本初次使用请使用右键弹出菜单后选择打开</li>
+<li>Mac版本若出现下方问题，请打开 系统偏好设置-安全性与隐私-通用-任要打开
+<img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/IMG_2252.jpg" alt="">
+<img src="file:////Users/fly/Library/Mobile Documents/com~apple~CloudDocs/zzz-career开发/newsky.github.io/out/tutor/remove/assets/Xnip2022-08-02_18-05-53.jpg" alt=""></li>
+<li><font color=red>★★★ 每增加一个不同邮箱注册的新API Key，月度可用数量会增加50张，欲达月度上限200张，需用4个不同邮箱注册</font>，每个API Key仅需配置一次，可添加的总API Key数量有限</li>
+<li><font color=red>★★★ 在个人中心不要生成多个API Key，一个邮箱的可用数量50张，不会因为多生成几个API Key而增长，不要在软件中输入同一个邮箱产生的多个API key，会相互干扰</font></li>
+<li>月度数量刷新时间取决于账号注册时间，而非月初</li>
+<li>过大尺寸图片，可能导致图片读取失败或者抠图效果不佳，可以的话建议控制图片尺寸</font></li>
+<li>图片中抠图目标占据图片最大空间时，可达较佳的抠图效果</li>
+<li><font color=red>当出现抠图效果不佳时，例如图片边缘羽化/虚化，通常是由于图片尺寸因素引起，有两种办法可以改善
+<ol>
+<li><font color=red> 将图片尺寸降低为自己可以接受的较低的尺寸</li>
+<li><font color=red> 将图片抠图目标边缘裁剪掉，使目标占据图片最大空间</li>
+<li><font color=red> 然后再次尝试抠图</li>
+</ol>
+</li>
+<li><font color=green>购买后体验如果不满意可以选择退款（<font color=red>退款理由请选择&quot;其他&quot;</font>），退款后激活码会随之失效</font></li>
+</ol>
+<!-- 4.  <font color=red>★★★ 在个人中心获取API Key后不要点击重新发送或Refresh，会导致前一个API Key失效，一个邮箱不能产生多个API Key</font> -->
+<!-- <font color=green>预计近期将发布针对大尺寸图片的优化版本，届时将会通知更新</font> -->
+<!-- ### 6. 限期首次五星好评有礼(评价后截屏给店主) -->
+<!-- | 产品规格  | 首次五星好评奖励 |
+| :-------: | :------: |
+| 包月 |  纯文字（字数不限）首次好评赠送使用时长15天，文字+图片首次好评（字数不限，图片数量不限）赠送使用时长20天    |
+| 包季、半年、包年 |  文字（字数不限）或 图片首次好评（数量不限）赠送使用时长一个月   | -->
+<style>
+/* body { background-color: #383838 !important; }
+h1,h2,h3,h4,h5,h6 {font-family: cursive; color: #A4F77B !important; }
+p {font-family: fangsong; font-size: x-large; !important; } */
+/* green {color: #A4F77B !important; }
+g {color: #FFD700 !important; }
+red { color: #F44747 !important; }
+li { color: white !important; }
+.center {
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+gradient {
+  background-image: linear-gradient(to right, #A4F77B, #FFD700);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+img {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+} */
+</style>
+
+        
+        
+    </body>
+    </html>
