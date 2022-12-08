@@ -1,7 +1,7 @@
 # 抠图工具使用教程
 
 
-### 1. 下载软件安装，打开软件，输入激活码<<font color=red>激活码在发货单中</font>>，请用快捷键复制粘贴，可选中激活码拖进输入框，点立刻激活（请保存好您的激活码）
+### 1. 下载软件安装，打开软件，输入激活码(<font color=red>激活码在发货单中</font>)，请用快捷键复制粘贴，可选中激活码拖进输入框，点立刻激活（请保存好您的激活码）
 ### 2. 注册获取Removebg API密钥（<font color=red>有邮箱即可,无额外费用</font>），注册成功后登录账户，登录成功后打开控制面板，切换到 API密钥栏，点击创建API密钥，即可生成并复制API密钥
 注册地址:
 [https://accounts.kaleido.ai/users/sign_up](https://accounts.kaleido.ai/users/sign_up)   
