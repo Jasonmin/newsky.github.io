@@ -16,13 +16,15 @@
 <img src="assets/Xnip2022-08-02_17-52-54.jpg" alt="">
 <img src="assets/Xnip2022-08-02_17-53-23.jpg" alt="">
 ### 3. 在工具中增加API Key框中，输入获取的API Key，点击增加（每个API Key仅需配置一次）
-<img src="assets/Xnip2022-08-02_17-54-26.jpg" alt="">
+![](assets/Xnip2022-08-02_17-54-26.jpg)
 ### 4. 拖入待处理的文件或文件夹，点击开始抠图
 ### 5. <font color=red>注意事项</font>
 1. Mac版本初次使用请使用右键弹出菜单后选择打开
 2. Mac版本若出现下方问题，请打开 系统偏好设置-安全性与隐私-通用-任要打开
 <img src="assets/IMG_2252.jpg" alt="">
 <img src="assets/Xnip2022-08-02_18-05-53.jpg" alt="">
+![](assets/IMG_2252.jpg)
+![](assets/Xnip2022-08-02_18-05-53.jpg)
 1. <font color=red>★★★ 每增加一个不同邮箱注册的新API Key，月度可用数量会增加50张，欲达月度上限200张，需用4个不同邮箱注册</font>，每个API Key仅需配置一次，可添加的总API Key数量有限
 2.   <font color=red>★★★ 在个人中心不要生成多个API Key，一个邮箱的可用数量50张，不会因为多生成几个API Key而增长，不要在软件中输入同一个邮箱产生的多个API key，会相互干扰</font>
 3. 月度数量刷新时间取决于账号注册时间，而非月初
