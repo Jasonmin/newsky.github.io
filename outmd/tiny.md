@@ -11,7 +11,7 @@ https://wwp.lanzouw.com/b02pgxy5g 密码:dkq3
 <!-- - 百度网盘
 链接: https://pan.baidu.com/s/1q3WPfEVG-j-XSsw8N9WnvQ 提取码: 9usm -->
 
-### <green>关于邀请活动
+<!-- ### <green>关于邀请活动
 #### 邀请简介
 - 自2.19版本，邀请入口开放，升级到2.19版本后展示邀请码，受邀方激活时输入邀请方提供的邀请码，成功激活后双方均可获取一定使用时长奖励，邀请方奖励额达到目标值后，可向店家申请升级为<green>永久版本
 #### 邀请规则
@@ -35,7 +35,7 @@ https://wwp.lanzouw.com/b02pgxy5g 密码:dkq3
 - 升级永久版本表示您接受上述规则
 
 ### <green>微信公众号：生长之树
-![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg)
+![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg) -->
 
 ### <green>产品推荐
 - 各大音乐vip下载音乐格式批量解码转mp3，便于长久保存，随处可播，支持ncm，qmc，kgm 等等      
