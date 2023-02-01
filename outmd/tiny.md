@@ -32,10 +32,10 @@ https://wwp.lanzouw.com/b02pgxy5g 密码:dkq3
 
 #### 永久版本可用性说明
 - 存在不可抗力因素（如：境内网络连接缓慢、服务器异常等）导致TinyPNG服务器不可连接时，TinyPNG压缩服务可能出现缓慢、压缩失败，可在软件切换压缩方式为Other，此项压缩方式同TinyPNG效果接近，不过暂不支持动态PNG图片
-- 升级永久版本表示您接受上述规则
+- 升级永久版本表示您接受上述规则 -->
 
 ### <green>微信公众号：生长之树
-![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg) -->
+![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg) 
 
 ### <green>产品推荐
 - 各大音乐vip下载音乐格式批量解码转mp3，便于长久保存，随处可播，支持ncm，qmc，kgm 等等      
