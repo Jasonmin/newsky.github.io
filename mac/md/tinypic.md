@@ -1,5 +1,5 @@
 
-## TinyPic
+## TinyPic (Similar to TinyPNG, Faster)
 - Easily batch compressing images
 <br>
 

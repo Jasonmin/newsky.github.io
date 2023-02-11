@@ -1,5 +1,5 @@
 
-## TinyPic
+## TinyPic (近乎TinyPNG，更快更稳定)
 - 图片批量压缩，操作极简
 <br>
 
