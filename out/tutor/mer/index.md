@@ -5,13 +5,13 @@
 ### 2. 抠图步骤
 
 a. 将待处理的原图，<red>（原图文件名最好不含特殊字符或空格，避免后续要修改）</red>，在removebg官网[https://www.remove.bg/zh](https://www.remove.bg/zh)，进行抠图操作，<red>不可进行添加背景色/原图或其他效果样式</red>，完成后下载预览图
-<center><img src="assets/1.jpg" width="500px"></center>
-<center><img src="assets/2.png" width="500px"></center>
+<center><img src="assets/1.jpg" width="700px"></center>
+<center><img src="assets/2.png" width="700px"></center>
 <!-- ![](assets/1.jpg)
 ![](assets/2.png) -->
 b. 将所有待处理的原图及预览图<red>(预览图文件名需含后缀-removebg-preview，且名称前半部分需与原图名称一致)</red>一起拖入软件中指定区域，点击开始处理
 <!-- ![](assets/3.png) -->
-<center><img src="assets/3.png" width="500px"></center>
+<center><img src="assets/3.png" width="700px"></center>
 
 ### 3. <font color=red>注意事项</font>
 - 过大尺寸原图，可能导致原图读取失败或者抠图效果不佳，可以的话建议控制原图尺寸</font>
