@@ -3,6 +3,10 @@
 <!-- <right>20220112</right> -->
 <br>
 
+### <green>抠图效果优化，图片边缘羽化/虚化改善方法：
+- 将图片抠图目标边缘裁剪掉，使目标占据图片最大空间
+
+
 [使用教程](https://jasonmin.github.io/newsky/out/tutor/remove/index)
 
 ### 抠图V200-Mac/Win：
