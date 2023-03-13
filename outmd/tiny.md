@@ -37,9 +37,9 @@ https://wwp.lanzouw.com/b02pgxy5g 密码:dkq3
 ### <green>微信公众号：生长之树
 ![](https://jasonmin.github.io/newsky/assets/qrcode_for.jpg) 
 
-### <green>产品推荐
+<!-- ### <green>产品推荐
 - 各大音乐vip下载音乐格式批量解码转mp3，便于长久保存，随处可播，支持ncm，qmc，kgm 等等      
-链接: https://item.taobao.com/item.htm?id=675399145206
+链接: https://item.taobao.com/item.htm?id=675399145206 -->
 
 <head>
     <link rel="stylesheet" type="text/css" href="../style/style.css">
