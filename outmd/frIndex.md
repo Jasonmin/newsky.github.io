@@ -6,7 +6,7 @@
 1. #### <green>图扩</green>（试用） - BigJpg批量无损放大软件（非官方版）| 指数：★★★★ [查看](https://jasonmin.github.io/newsky/out/large)
 2. #### <green>RemoveBG半智能抠图</green>（试用） - 支持导出RemoveBG高清图| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/mer)
 3. #### <green>优速压图</green>（试用） - 批量图片压缩软件（近乎TinyPNG，更快更稳定）| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/lopress)
-4. #### <green>高速调图</green>（试用） - 批量图片尺寸修改（持续扩展）| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/lopress)
+4. #### <green>高速调图</green>（试用） - 批量图片尺寸修改（持续扩展）| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/clip)
 
 ### 其他
 
