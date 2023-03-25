@@ -1,7 +1,7 @@
 
 ## 软件目录
 
-### 推荐适用
+### 推荐试用
 
 1. #### <green>图扩</green>（试用） - BigJpg批量无损放大软件（非官方版）| 指数：★★★★ [查看](https://jasonmin.github.io/newsky/out/large)
 2. #### <green>RemoveBG半智能抠图</green>（试用） - 支持导出RemoveBG高清图| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/mer)
