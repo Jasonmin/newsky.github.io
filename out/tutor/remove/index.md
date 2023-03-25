@@ -1,12 +1,14 @@
 ## 智能抠图使用教程
 
-1. 输入激活码(<font color=red>激活码在发货单中</font>)，请用快捷键复制粘贴，或选中激活码拖进输入框，点立刻激活（请保存好您的激活码）
+1. 输入卡密/激活码(<font color=red>卡密/激活码在发货单中</font>)，请用快捷键复制粘贴，或选中激活码拖进输入框，点立刻激活（请保存好您的激活码）
+<center><img src="assets/iShot2023-03-25%2009.33.27.png" width="500px"></center>
+
 2. 注册获取API密钥（<font color=red>有邮箱即可,无额外费用</font>）   
 [removebg官网中文版注册地址](https://accounts.kaleido.ai/users/sign_up?locale=zh)   
 
 <center><img src="assets/1.jpg" width="300px"></center>
 
-注册成功后登录账户，打开控制面板    
+注册成功后登录账户，打开我的账户    
 
 <center><img src="assets/Xnip2022-08-02_17-49-50.jpg" width="500px"></center>
 
