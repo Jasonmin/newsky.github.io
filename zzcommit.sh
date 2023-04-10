@@ -3,7 +3,7 @@
 ## 权限授予 chmod u+x *.sh
 # chmod u+x ./zzcommit.sh
 
-git push
+# git push
 
 # 获取提交信息
 message="`date +%y-%m-%d,%H:%M`"

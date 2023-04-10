@@ -2,21 +2,24 @@
 ## 无损放大使用说明
 <br>
 
-### 无损放大V-Mac/Win
+### <green>无损放大V-Mac/Win
 
-<!-- - 微云（不限速）
-链接：https://share.weiyun.com/sZ33HPeZ 密码：qpt33t -->
-- 蓝奏云网盘（可网页直接下载）（不限速）
+
+- 蓝奏云网盘（Mac1.33+Win1.34以上，因Mac1.34以上版本略超过100兆，目前只能上传百度网盘）     
 https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
-<!-- - 百度网盘
-链接: https://pan.baidu.com/s/11hfZ0WtqiJHZDI8lQc3rhg  密码: jwpg -->
+- 百度网盘 （Mac1.34以上）
+链接: https://pan.baidu.com/s/11hfZ0WtqiJHZDI8lQc3rhg  密码: jwpg
 
 
-#### 试用激活码：
+### <green>试用激活码：
 > <g>目前大约有1/10的Windows系统电脑会处理失败(一般为显卡不兼容导致)，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用10张，激活当天有效
 
-
 <g>frxUR37XgnWbsvl2zGa2OLr3bNXg79KhaUWkq3tCG4HSxTybQRZ8u4FF6df3c6b6
+### <green>版本说明
+- V1.34 支持控制输出图像分辨率（PPI）
+
+
+
 
 <!-- ### <green>关于邀请活动
 #### 邀请简介
