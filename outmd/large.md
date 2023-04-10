@@ -5,9 +5,9 @@
 ### <green>无损放大V-Mac/Win
 
 
-- 蓝奏云网盘（Mac1.33+Win1.34以上，因Mac1.34以上版本略超过100兆，目前只能上传百度网盘）     
+- 蓝奏云网盘（Mac1.34+Win1.35以上，因Mac1.35以上版本略超过100兆，目前只能上传百度网盘）     
 https://wwp.lanzouw.com/b02pcmu1i 密码:f4rf
-- 百度网盘 （Mac1.34以上）
+- 百度网盘 （Mac1.35以上）
 链接: https://pan.baidu.com/s/11hfZ0WtqiJHZDI8lQc3rhg  密码: jwpg
 
 
