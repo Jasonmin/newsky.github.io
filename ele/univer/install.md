@@ -17,4 +17,4 @@
 2. Mac版本打开时若提示：<font color=red>无法打开，因为无法验证开发者</font>，请点击取消，并前往：<font color=green>系统偏好设置-安全性与隐私-通用-仍要打开</font>
 
 <center><img src="assets/IMG_2252.jpg" width="200px"></center>
-<center><img src="assets/Xnip2022-08-02_18-05-53.jpg" width="400px"></center>
+<center><img src="assets/Xnip2022-08-02_18-05-53.jpg" width="500px"></center>
