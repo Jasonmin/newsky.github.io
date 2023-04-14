@@ -6,6 +6,7 @@
 
 - [Windows系统](#windows系统)
 - [苹果MacOS系统](#苹果macos系统)
+- [如何更新版本](#如何更新版本)
 
 
 #### <font color=green>Windows系统</font>
@@ -18,3 +19,8 @@
 
 <center><img src="assets/IMG_2252.jpg" width="200px"></center>
 <center><img src="assets/Xnip2022-08-02_18-05-53.jpg" width="500px"></center>
+
+#### <font color=green>如何更新版本</font>
+新版本会上传到蓝奏云网盘，该地址长期稳定
+1. 打开软件后，点击左下角更多，在新打开的网页中，点击进入蓝奏云网页地址可下载
+2. 下载完成后，直接安装，无需卸载老版本
