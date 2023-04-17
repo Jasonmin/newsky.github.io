@@ -23,7 +23,7 @@ RemoveBg海量抠图
 - 分辨率(PPI)：默认为72，可选择300（300通常用于打印）
 
 #### <font color=green>版本记录</font>
-- 4.12.20230417：支持设置PPI，修复部分问题
+- 4.12.20230417：支持设置PPI；问题修复
 #### <font color=green>防丢失</font>
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
