@@ -1,19 +1,25 @@
 
-## 软件目录
+<b><font color=green size=4>
+生长之树
+</font></b>
 
-### 推荐试用
+- [removebg AI抠图，HD原尺寸](#removebg-ai抠图hd原尺寸)
+- [tinypng 熊猫压缩](#tinypng-熊猫压缩)
+- [bigjpg 无损放大](#bigjpg-无损放大)
+- [图片批量编辑](#图片批量编辑)
 
-1. #### <green>图扩</green>（试用） - BigJpg批量无损放大软件（非官方版）| 指数：★★★★ [查看](https://jasonmin.github.io/newsky/out/large)
-2. #### <green>RemoveBG半智能抠图</green>（试用） - 支持导出RemoveBG高清图| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/mer)
-3. #### <green>优速压图</green>（试用） - 批量图片压缩软件（近乎TinyPNG，更快更稳定）| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/lopress)
-4. #### <green>高速调图</green>（试用） - 批量图片尺寸修改（持续扩展）| 指数：★★★ [查看](https://jasonmin.github.io/newsky/out/clip)
+#### removebg AI抠图，HD原尺寸
+- 智能抠图 - 需要注册，批量处理（近期推出试用）[查看](./ele/app/removebg/info)
+- 半智能抠图 - 免注册，单张处理（试用）[查看](https://jasonmin.github.io/newsky/out/mer)
+- 海量抠图 - 免注册，大批量处理 [查看](./ele/app/removelm/info)
 
-### 其他
+#### tinypng 熊猫压缩
+- 高质压图 - 批量图片压缩（TinyPNG）[查看](https://jasonmin.github.io/newsky/out/tiny)
+- 优速压图(试用) - 批量图片压缩软件（近乎TinyPNG，更快更稳定）[查看](https://jasonmin.github.io/newsky/out/lopress)
 
-1. #### <green>RemoveBG智能抠图</green>（暂无试用，无理由退款） - 批量导出原尺寸图| 指数：★★★★ [查看](https://jasonmin.github.io/newsky/out/remove)
-2. #### <green>高质压图(熊猫压缩)</green>（暂无试用，无理由退款） - 批量图片压缩软件（TinyPNG）| 指数：★★★★ [查看](https://jasonmin.github.io/newsky/out/tiny)
-3. #### <green>图扩HD</green>（试用） - 批量无损放大软件,模糊图片清晰化（不适用人像，速度较慢）| 指数：★★ [查看](https://jasonmin.github.io/newsky/out/largeqhd)
+#### bigjpg 无损放大
+- 图扩 - 非官方版，效果一致（试用）[查看](https://jasonmin.github.io/newsky/out/large)
+- 图扩HD - 模糊图片清晰化（不适用人像，速度慢）（试用）[查看](https://jasonmin.github.io/newsky/out/largeqhd)
 
-<head>
-    <link rel="stylesheet" type="text/css" href="../style/thirdstyle.css">
-</head>
+#### 图片批量编辑
+- 高速调图 - 批量图片尺寸修改（持续扩展）[查看](https://jasonmin.github.io/newsky/out/clip)
