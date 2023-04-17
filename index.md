@@ -14,11 +14,11 @@
 - 海量抠图 - 免注册，大批量处理 [查看](./ele/app/removelm/info)
 
 #### tinypng 熊猫压缩
-- 高质压图 - 批量图片压缩（TinyPNG）[查看](https://jasonmin.github.io/newsky/out/tiny)
+- 高质压图 - 批量图片压缩（TinyPNG）（试用）[查看](./ele/app/tinypng/info)
 - 优速压图(试用) - 批量图片压缩软件（近乎TinyPNG，更快更稳定）[查看](https://jasonmin.github.io/newsky/out/lopress)
 
 #### bigjpg 无损放大
-- 图扩 - 非官方版，效果一致（试用）[查看](https://jasonmin.github.io/newsky/out/large)
+- 图扩 - 非官方版，效果一致（试用）[查看](./ele/app/bigjpg/info)
 - 图扩HD - 模糊图片清晰化（不适用人像，速度慢）（试用）[查看](https://jasonmin.github.io/newsky/out/largeqhd)
 
 #### 图片批量编辑
