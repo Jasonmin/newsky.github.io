@@ -1,0 +1,26 @@
+
+<b><font color=green size=4>
+高质压图 - TinyPNG
+</font></b>
+
+- [软件下载地址](#软件下载地址)
+- [通用安装指南](#通用安装指南)
+- [试用激活码](#试用激活码)
+- [防丢失](#防丢失)
+
+
+
+#### <font color=green>软件下载地址</font>
+- 蓝奏云（访问网页直接下载）
+[https://wwp.lanzouw.com/b02pgxy5g](https://wwp.lanzouw.com/b02pgxy5g)  密码:dkq3
+
+#### [通用安装指南](../../univer/install.md)
+<!-- #### [初次使用指南](./tutor.md) -->
+#### <font color=green>试用激活码</font>
+> 可用100张，激活当天有效
+- frtAH47hGDJpOkq4Ey2iz1ej8eO5g9lL1y3gOjq04Uv2EIQ9PuzSqPqkf15d38e3
+
+
+#### <font color=green>防丢失</font>
+- 公众号：生长之树
+<center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
