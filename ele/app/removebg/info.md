@@ -32,7 +32,6 @@ RemoveBg智能抠图
 
 #### <font color=green>防丢失</font>
 - 公众号：生长之树
-- 微信号：ahsira
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
 
 #### <font color=green>老用户微信支付专享优惠（当前）</font>
@@ -41,4 +40,5 @@ RemoveBg智能抠图
 - 月度上限300包年，淘宝价：87.7，微信价：82
 
 - 支付方式：添加微信号后支付即可
+- 微信号：ahsira
 - 备注：请尽量选择白天下单，此项为手动发货，可能无法立刻看到，但尽量及时发货
