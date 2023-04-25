@@ -18,7 +18,7 @@
 #### [通用安装指南](../../univer/install.md)
 #### [初次使用指南](./tutor.md)
 #### <font color=green>试用激活码</font>
-> 目前大约有1/10的Windows系统电脑会处理失败(一般为显卡不兼容导致)，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用10张，激活当天有效
+> 目前大约有1/10的Windows系统电脑会处理失败(一般为显卡不兼容导致)，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用5张，激活当天有效
 - frxUR37XgnWbsvl2zGa2OLr3bNXg79KhaUWkq3tCG4HSxTybQRZ8u4FF6df3c6b6
 
 
