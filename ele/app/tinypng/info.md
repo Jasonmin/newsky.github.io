@@ -6,6 +6,8 @@
 - [软件下载地址](#软件下载地址)
 - [通用安装指南](#通用安装指南)
 - [试用激活码](#试用激活码)
+- [选项说明](#选项说明)
+- [版本记录](#版本记录)
 - [防丢失](#防丢失)
 
 
@@ -20,6 +22,11 @@
 > 可用100张，激活当天有效
 - frtAH47hGDJpOkq4Ey2iz1ej8eO5g9lL1y3gOjq04Uv2EIQ9PuzSqPqkf15d38e3
 
+#### <font color=green>选项说明</font>
+- APNG大图压缩：该选项仅影响apng动图压缩，当存在apng动图时，请选择tinypng压缩方式
+
+#### <font color=green>版本记录</font>
+- 2.29.20230516：优化5M以上apng动图压缩率
 
 #### <font color=green>防丢失</font>
 - 公众号：生长之树
