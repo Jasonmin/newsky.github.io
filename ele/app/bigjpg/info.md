@@ -21,6 +21,9 @@
 > 目前大约有1/10的Windows系统电脑会处理失败(一般为显卡不兼容导致)，若处理失败，请选择退款，或用其他电脑尝试，下方有免费试用激活码，可用5张，激活当天有效
 - frxUR37XgnWbsvl2zGa2OLr3bNXg79KhaUWkq3tCG4HSxTybQRZ8u4FF6df3c6b6
 
+### <font color=green>淘宝地址</font>
+- 淘宝地址：24小时自动发货，可下单月度以上版本，数量不限
+- 链接: https://item.taobao.com/item.htm?id=661071557523
 
 #### <font color=green>防丢失</font>
 - 公众号：生长之树
