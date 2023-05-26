@@ -23,9 +23,10 @@
 - frtAH47hGDJpOkq4Ey2iz1ej8eO5g9lL1y3gOjq04Uv2EIQ9PuzSqPqkf15d38e3
 
 #### <font color=green>选项说明</font>
-- APNG大图压缩：该选项仅影响apng动图压缩，当存在apng动图时，请选择tinypng压缩方式
+- APNG大图压缩：该选项仅影响apng动图压缩
 
 #### <font color=green>版本记录</font>
+- 2.30.20230522：优化官方限流导致选择tinypng时失败率高问题（以降速为代价），建议选择other方式，快很多
 - 2.29.20230516：优化5M以上apng动图压缩率
 
 #### <font color=green>防丢失</font>
