@@ -16,11 +16,11 @@
 
 #### tinypng 熊猫压缩
 - 高质压图(试用) - 批量图片压缩（TinyPNG）[查看](./ele/app/tinypng/info)
-<!-- - 优速压图(试用) - 批量图片压缩（近乎TinyPNG，更快更稳定）[查看](https://jasonmin.github.io/newsky/out/lopress) -->
+- 优速压图(试用) - 批量图片压缩（近乎TinyPNG，更快更稳定）[查看](https://jasonmin.github.io/newsky/out/lopress)
 
 #### bigjpg 无损放大
 - 图扩(试用) - 非官方版，效果一致 [查看](./ele/app/bigjpg/info)
-- 图扩HD(试用) - 模糊图片清晰化（不适用人像，速度慢）[查看](https://jasonmin.github.io/newsky/out/largeqhd)
+<!-- - 图扩HD(试用) - 模糊图片清晰化（不适用人像，速度慢）[查看](https://jasonmin.github.io/newsky/out/largeqhd) -->
 
 #### 图片批量编辑
 - 高速调图(试用) - 批量图片尺寸修改（持续扩展）[查看](https://jasonmin.github.io/newsky/out/clip)
