@@ -1,12 +1,11 @@
 
 <b><font color=green size=4>
-工具小箱
+视频速压
 </font></b>
 
 - [软件下载地址](#软件下载地址)
 - [通用安装指南](#通用安装指南)
 - [当前功能 - 持续扩展](#当前功能---持续扩展)
-- [激活码](#激活码)
 - [防丢失](#防丢失)
 
 
@@ -18,10 +17,8 @@
 #### [通用安装指南](../../univer/install.md)
 
 #### <font color=green>当前功能 - 持续扩展</font>
-- ncm转mp3，适用场景：ncm为网易云音乐格式，淘宝88VIP附赠网易云音乐VIP，PC版可下载音乐，下载后，可使用此项批量转换为mp3，便于留存或迁往其它播放器(如车载)使用
+- 视频压缩为mp4，支持avi，mov，mp4
 
-#### <font color=green>激活码</font>
-- frUt2b83VCv9n0Di7JyfriZBf6wgNBvVt3CqIo4JFB7l05p0eoeBVF9Aa85923d9
 
 #### <font color=green>防丢失</font>
 - 公众号：生长之树
