@@ -17,7 +17,7 @@ RemoveBg智能抠图
 [https://wwp.lanzouw.com/b02pcmqyh](https://wwp.lanzouw.com/b02pcmqyh)  密码:7uao
 
 #### 通用安装指南 [查看](../../univer/install.md)
-#### 初次使用指南 [查看](./tutor.md)
+#### <font color=green>初次使用指南</font> [查看](./tutor.md)
 #### <font color=green>抠图选项说明</font>
 - 边缘裁剪（推荐，单图可用，不支持批量）：将图片抠图目标多余边缘裁剪，使目标占据图片最大空间（有效改善边缘羽化/虚化）
 - 控制尺寸：若最终需要的图片尺寸（如1000x1000）比原图尺寸小（如4000x4000），可勾选并设置，此项不会改变图片宽高比
