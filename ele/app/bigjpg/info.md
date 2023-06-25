@@ -15,8 +15,10 @@
 
 
 #### <font color=green>软件下载地址</font>
-- 蓝奏云（访问网页直接下载）
+- 蓝奏云（访问网页直接下载） -->
 [https://wwp.lanzouw.com/b02pcmu1i](https://wwp.lanzouw.com/b02pcmu1i)  密码:f4rf
+<!-- - 百度云盘
+https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg  密码: 0hl3 -->
 
 #### [通用安装指南](../../univer/install.md)
 #### [初次使用指南](./tutor.md)
@@ -30,6 +32,7 @@
 - GPU分块：影响处理速度，默认为32（部分电脑设置为更高值时可能会处理失败）。若选自动没有失败，则建议选自动或200，处理速度更快
 
 #### <font color=green>版本记录</font>
+<!-- - 1.41.20230701：新增画质增强 -->
 - 1.40.20230613：支持自选GPU（若有多GPU），没有时请保持默认选项
 
 #### <font color=green>淘宝地址</font>
