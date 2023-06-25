@@ -35,7 +35,7 @@ RemoveBg智能抠图
 - 1.45.20230417：支持设置PPI，部分问题修复
 
 #### <font color=green>微信客户服务</font>
-- 微信号1：jyq012 （可咨询及下单）
+- 微信号1：jyq012 （可下单）
 
 
 #### <font color=green>防丢失</font>
