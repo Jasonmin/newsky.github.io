@@ -17,7 +17,8 @@
 #### <font color=green>软件下载地址</font>
 <!-- - 蓝奏云（访问网页直接下载 -->
 <!-- [https://wwp.lanzouw.com/b02pcmu1i](https://wwp.lanzouw.com/b02pcmu1i)  密码:f4rf -->
-
+- 微云
+[https://share.weiyun.com/TWl1bETe](https://share.weiyun.com/TWl1bETe)
 - 百度云盘
 [https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg](https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg)  密码: 0hl3
 - 注意：前期已购年度用户月度用量1000张，非年度月度500张以内建议升级，超过此用量请慎重自行决定
