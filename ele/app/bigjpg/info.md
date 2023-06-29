@@ -9,6 +9,7 @@
 - [试用激活码](#试用激活码)
 - [选项说明](#选项说明)
 - [版本记录](#版本记录)
+- [处理前后对比](#处理前后对比)
 - [淘宝地址](#淘宝地址)
 - [防丢失](#防丢失)
 
@@ -23,7 +24,6 @@
 [https://share.weiyun.com/TWl1bETe](https://share.weiyun.com/TWl1bETe)
 - 百度云盘
 [https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg](https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg)  密码: 0hl3
-
 
 #### [通用安装指南](../../univer/install.md)
 #### [初次使用指南](./tutor.md)
@@ -42,6 +42,15 @@
 - 1.42.20230628：修复1.41中，4倍及以上放大，部分除噪选项选择时会报失败问题
 - 1.41：新增画质增强，清晰度显著提升
 - 1.40.20230613：支持自选GPU（若有多GPU），没有时请保持默认选项
+
+#### <font color=green>处理前后对比</font>
+- 卡通
+![](./pic/1.jpg)
+![](./pic/1_2xx.jpg)
+- 照片
+![](pic/2.jpg)
+![](pic/2_2xx.jpg)
+
 
 #### <font color=green>淘宝地址</font>
 - 淘宝地址：24小时自动发货，可下单月度以上版本，数量更多
