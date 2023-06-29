@@ -22,8 +22,8 @@
 
 - 微云
 [https://share.weiyun.com/TWl1bETe](https://share.weiyun.com/TWl1bETe)
-- 百度云盘
-[https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg](https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg)  密码: 0hl3
+<!-- - 百度云盘
+[https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg](https://pan.baidu.com/s/1DUphcj7dT11Vs0n2WBV7Sg)  密码: 0hl3 -->
 
 #### [通用安装指南](../../univer/install.md)
 #### [初次使用指南](./tutor.md)
