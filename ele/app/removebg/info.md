@@ -16,7 +16,7 @@ RemoveBg智能抠图
 - 蓝奏云（访问网页直接下载）
 [https://wwp.lanzouw.com/b02pcmqyh](https://wwp.lanzouw.com/b02pcmqyh)  密码:7uao
 
-#### 通用安装指南 [查看](../../univer/install.md)
+#### <font color=green>通用安装指南</font> [查看](../../univer/install.md)
 #### <font color=green>初次使用指南</font> [查看](./tutor.md)
 #### <font color=green>抠图选项说明</font>
 - 边缘裁剪（推荐，单图可用，不支持批量）：将图片抠图目标多余边缘裁剪，使目标占据图片最大空间（有效改善边缘羽化/虚化）
