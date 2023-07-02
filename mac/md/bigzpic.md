@@ -10,8 +10,9 @@
 
 
 ### <green>联系我
-- 有任何意见或建议，欢迎通过邮箱联系我
+- 有任何问题、意见或建议，欢迎通过联系我
 - 邮箱: mintree@icloud.com
+- 微信：ahsira
 
 <head>
     <link rel="stylesheet" type="text/css" href="../../style/style.css">
