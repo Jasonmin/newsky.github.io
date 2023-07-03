@@ -18,7 +18,7 @@
 
 #### tinypng 熊猫压缩
 - 高质压图(试用) - 批量图片压缩（TinyPNG）[查看](./ele/app/tinypng/info)
-- 优速压图(试用) - 批量图片压缩（近乎TinyPNG，更快更稳定）[查看](https://jasonmin.github.io/newsky/out/lopress)
+<!-- - 优速压图(试用) - 批量图片压缩（近乎TinyPNG，更快更稳定）[查看](https://jasonmin.github.io/newsky/out/lopress) -->
 
 #### bigjpg 无损放大
 - 图扩(试用) - 非官方版，效果一致 [查看](./ele/app/bigjpg/info)
