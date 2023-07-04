@@ -45,11 +45,9 @@
 
 #### <font color=green>处理前后对比</font>
 - 卡通
-![](./pic/1.jpg)
-![](./pic/1_2xx.jpg)
+<center><img src="./pic/1.jpg" width="400px"><img src="./pic/1_2xx.jpg" width="400px"></center>
 - 照片
-![](pic/2.jpg)
-![](pic/2_2xx.jpg)
+<center><img src="./pic/2.jpg" width="400px"><img src="./pic/2_2xx.jpg" width="400px"></center>
 
 
 #### <font color=green>淘宝地址</font>
