@@ -20,5 +20,5 @@ git add .
 git commit -m "$message"
 
 # 拉取
-git pull
+# git pull
 git push
