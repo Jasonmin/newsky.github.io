@@ -7,7 +7,7 @@
 - [tinypng 熊猫压缩](#tinypng-熊猫压缩)
 - [bigjpg 无损放大](#bigjpg-无损放大)
 - [图片批量编辑](#图片批量编辑)
-- [免费](#免费)
+- [聚合](#聚合)
 - [分享](#分享)
 
 
@@ -27,8 +27,10 @@
 #### 图片批量编辑
 - 高速调图(试用) - 批量图片尺寸修改（持续扩展）[查看](https://jasonmin.github.io/newsky/out/clip)
 
-#### 免费
-- 工具小箱 - 网易ncm转mp3（持续扩展） [查看](./ele/app/ifreetool/info)
+#### 聚合
+- 工具小箱[查看](./ele/app/ifreetool/info)
+  - 网易ncm转mp3（持续扩展） 
+  - 电子书格式批量转换（支持mobi，epub等）
 
 #### 分享
 - 云笔记优选 - [查看](./share/note.md)
