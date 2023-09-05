@@ -13,7 +13,7 @@
 #### removebg AI抠图，HD原尺寸
 - 智能抠图 - 需注册，批量处理 [查看](./ele/app/removebg/info)
 - 半智能抠图(试用) - 免注册，可编辑 [查看](https://jasonmin.github.io/newsky/out/mer)
-- 海量抠图 - 免注册，大批量处理 [查看](./ele/app/removelm/info)
+- 海量/高清(试用)抠图 - 免注册，大批量处理 [查看](./ele/app/removelm/info)
 
 #### tinypng 熊猫压缩
 - 高质压图(试用) - 批量图片压缩（TinyPNG）[查看](./ele/app/tinypng/info)
