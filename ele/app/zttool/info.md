@@ -12,7 +12,7 @@
 
 #### <font color=green>软件下载地址</font>
 - 蓝奏云（访问网页直接下载）
-  - [https://wwzn.lanzouw.com/b02qj43yj](https://wwzn.lanzouw.com/b02r2sqde) 密码:gfyu
+  - [https://wwzn.lanzouw.com/b02r2sqde](https://wwzn.lanzouw.com/b02r2sqde) 密码:gfyu
 
 #### [通用安装指南](../../univer/install.md)
 
