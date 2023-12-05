@@ -12,13 +12,39 @@ then
     message="$1"
 fi
 
-# 日志
-# echo $message
 
-# 提交并推送
+echo ======Gitee commit
+
+# Gitee
+git remote set-url origin https://gitee.com/mintree/newsky.git
+
+git pull
+
+# 代码git提交
 git add .
-git commit -m "$message"
-
-# 拉取
-# git pull
+git commit -m 'c'
 git push
+
+
+echo ======github page commit
+
+# bitbucket
+git remote set-url origin https://github.com/Jasonmin/newsky.git
+git pull
+
+# 代码git提交
+git add .
+git commit -m 'c'
+git push
+
+
+# # 日志
+# # echo $message
+
+# # 提交并推送
+# git add .
+# git commit -m "$message"
+
+# # 拉取
+# # git pull
+# git push
