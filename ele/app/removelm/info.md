@@ -16,7 +16,7 @@ RemoveBg海量抠图
 
 
 #### <font color=green>软件下载地址</font>
-- 蓝奏云（访问网页直接下载）
+- 蓝奏云（访问网页直接下载，勿转存）
 [https://wwp.lanzouw.com/b02pji0bg](https://wwp.lanzouw.com/b02pji0bg)  密码:6jbg
 
 #### [通用安装指南](../../univer/install.md)

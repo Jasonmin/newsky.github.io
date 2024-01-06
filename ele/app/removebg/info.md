@@ -13,7 +13,7 @@ RemoveBg智能抠图
 
 
 #### <font color=green>软件下载地址</font>
-- 蓝奏云（访问网页直接下载）
+- 蓝奏云（访问网页直接下载，勿转存）
 [https://wwp.lanzouw.com/b02pcmqyh](https://wwp.lanzouw.com/b02pcmqyh)  密码:7uao
 
 #### <font color=green>通用安装指南</font> [查看](../../univer/install.md)
