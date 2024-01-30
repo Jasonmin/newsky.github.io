@@ -39,7 +39,7 @@
 - 推荐一本效率手册专栏（更新中），主讲效率工具，良心制作  
 - 内测期仅需10元，微信扫码查看 或 [访问链接](https://xiaobot.net/p/office?refer=5dd8bade-781c-4f98-9d0a-0f9bf1b8261b)
 
-<img src="../../../assets/ad/tool100/1.jpg" width="200px">
+<img src="../../../assets/ad/tool100/1.jpg" width="300px">
 <img src="../../../assets/ad/tool100/2.jpg" width="200px">
 <img src="../../../assets/ad/tool100/3.jpg" width="200px">
 
