@@ -37,7 +37,7 @@
 #### <font color=green>100个效率工具专栏</font>
 
 - 推荐一本效率手册专栏（更新中），主讲效率工具，良心制作  
-- 内测期仅需10元，24小时无理由退款，微信扫码查看 或 [访问链接](https://xiaobot.net/p/office?refer=5dd8bade-781c-4f98-9d0a-0f9bf1b8261b)
+- 内测期仅需12元，24小时无理由退款，微信扫码查看 或 [访问链接](https://xiaobot.net/p/office?refer=5dd8bade-781c-4f98-9d0a-0f9bf1b8261b)
 
 <img src="../../../assets/ad/tool100/1.jpg" width="300px">
 <img src="../../../assets/ad/tool100/2.jpg" width="300px">
