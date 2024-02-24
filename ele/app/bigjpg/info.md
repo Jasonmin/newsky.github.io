@@ -12,7 +12,6 @@
 - [处理前后对比](#处理前后对比)
 - [淘宝地址](#淘宝地址)
 - [防丢失](#防丢失)
-- [100个效率工具专栏](#100个效率工具专栏)
 
 
 
@@ -59,11 +58,3 @@
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
 
-#### <font color=green>100个效率工具专栏</font>
-
-- 推荐一本效率手册专栏（更新中），主讲效率工具，良心制作  
-- 内测期仅需12元，24小时无理由退款，微信扫码查看 或 [访问链接](https://xiaobot.net/p/office?refer=5dd8bade-781c-4f98-9d0a-0f9bf1b8261b)
-
-<img src="../../../assets/ad/tool100/1.jpg" width="300px">
-<img src="../../../assets/ad/tool100/2.jpg" width="300px">
-<img src="../../../assets/ad/tool100/3.jpg" width="300px">
