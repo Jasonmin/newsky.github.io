@@ -15,7 +15,7 @@
 
 #### <font color=green>软件下载地址（纹图Plus - 大小 < 130M）</font>
 - 微云（可网页直接下载）
-- https://share.weiyun.com/7o250oRO
+- [https://share.weiyun.com/7o250oRO](https://share.weiyun.com/7o250oRO)
 
 #### [通用安装指南](../../univer/install.md)
 #### [半智能抠图教程](../../../out/tutor/mer/index.md)
