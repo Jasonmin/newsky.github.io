@@ -9,6 +9,7 @@
 - [半智能抠图教程](#半智能抠图教程)
 - [使用说明](#使用说明)
 - [试用激活码，可用数量2](#试用激活码可用数量2)
+- [版本记录](#版本记录)
 - [防丢失](#防丢失)
 
 
@@ -30,6 +31,8 @@
 #### <font color=green>试用激活码，可用数量2</font>
 - frPim381k6wS3dvz3LaOp38qCx3VIda2vOn04E0PMDjdM7x81GutQEOG8606cb3c
 
+#### <font color=green>版本记录</font>
+- 1.9.20240228：支持失败重试
 
 #### <font color=green>防丢失</font>
 - 公众号：生长之树
