@@ -21,8 +21,10 @@
 - 蓝奏云（访问网页直接下载，勿转存）
 - [https://wwzn.lanzouw.com/b02rca15i](https://wwzn.lanzouw.com/b02rca15i) 密码:6i3e
 
-#### [通用安装指南](../../univer/install.md)
-#### [半智能抠图教程](../../../out/tutor/mer/index.md)
+#### 通用安装指南
+[查看](../../univer/install.md)
+#### 半智能抠图教程
+[查看](../../../out/tutor/mer/index.md)
 
 #### <font color=green>使用说明</font>
 - 汇聚优质抠图、高清抠图、removebg抠图、removebg半智能抠图，使用时可自由选择
@@ -31,8 +33,8 @@
 #### <font color=green>试用激活码，可用数量2</font>
 - frPim381k6wS3dvz3LaOp38qCx3VIda2vOn04E0PMDjdM7x81GutQEOG8606cb3c
 
-#### <font color=green>版本记录</font>
-- 1.9.20240228：支持失败重试
+#### 版本记录
+[查看](./version.md)
 
 #### <font color=green>防丢失</font>
 - 公众号：生长之树
