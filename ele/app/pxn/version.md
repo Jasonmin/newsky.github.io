@@ -1,8 +1,8 @@
 
 ## <font color=green>版本计划（待发）</font>
 
-- 1.18
-  - 待定
+- 计划中：
+  - 新增：TinyPNG官方无限速版
 
 
 ## <font color=green>版本记录（已发）</font>
