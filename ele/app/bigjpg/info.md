@@ -55,6 +55,7 @@
 - 链接: https://item.taobao.com/item.htm?id=661071557523
 
 #### <font color=green>防丢失</font>
+- 微信号：mtreeah
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
 

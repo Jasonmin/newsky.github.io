@@ -39,5 +39,6 @@ RemoveBg智能抠图
 
 
 #### <font color=green>防丢失</font>
+- 微信号：mtreeah
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
