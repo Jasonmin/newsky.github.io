@@ -42,8 +42,8 @@
 [查看](../../../out/tutor/mer/index.md)
 
 #### <font color=green>注意事项</font>
-- 对于removebg抠图项，尺寸/分辨率较大可能出现边缘虚化，
-- 若虚化导致效果不佳，建议裁剪掉边缘富余区域再抠图，可以提升抠图效果
+- 对于removebg抠图项（海量和半智能），尺寸/分辨率较大时可能出现边缘虚化，若虚化导致效果不佳，建议裁剪掉边缘富余区域再抠图，可以提升抠图效果
+- 海量抠图：锯齿虚化选项——可降低锯齿感，但边缘虚化程度会略微加深
 
 #### <font color=green>试用激活码，可用数量2</font>
 - frPim381k6wS3dvz3LaOp38qCx3VIda2vOn04E0PMDjdM7x81GutQEOG8606cb3c
