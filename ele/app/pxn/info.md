@@ -12,7 +12,6 @@
 - [试用激活码，可用数量2](#试用激活码可用数量2)
 - [版本记录](#版本记录)
 - [防丢失](#防丢失)
-- [助农小广告](#助农小广告)
 
 
 #### <font color=green>软件下载地址（纹图 - 大小 < 100M）</font>
@@ -57,7 +56,7 @@
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
 
-#### <font color=green>助农小广告</font>
+<!-- #### <font color=green>助农小广告</font>
 - 水果之乡砀山露天黄金蜜桃，油桃（朋友自家种植），每日新鲜采摘快递发货（江浙沪皖隔日达），有意者请添加（无意请忽略）
 - 微信：wxid_2i4lgmc5hqzj22
 - 微信名：绿意盎然
@@ -67,4 +66,4 @@
 <img src="../../../assets/ad/dangshan/3.JPG" width="200px">
 <video id="video" controls="" preload="none" poster="" width="600px">
       <source id="mp4" src="../../../assets/ad/dangshan/4.MP4" type="video/mp4">
-</video>
+</video> -->
