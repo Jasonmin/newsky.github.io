@@ -33,6 +33,6 @@
 - 1.2.20230809：修复一些问题，新增功能：图片尺寸压缩/修改/调整
 
 #### <font color=green>防丢失</font>
-<!-- - 微信号：mtreeah -->
+<!-- - 微信号：mtreeah (提供售后及咨询服务) -->
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
