@@ -31,6 +31,6 @@ RemoveBg海量抠图
 - 4.12.20230420：几个问题修复（边缘裁剪，导出位置异常等）
 - 4.12.20230417：支持设置PPI；问题修复
 #### <font color=green>防丢失</font>
-<!-- - 微信号：mtreeah (提供售后及咨询服务) -->
+<!-- - 微信号：mtreeah (建议添加，可提供售后及咨询服务) -->
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>

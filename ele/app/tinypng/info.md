@@ -31,8 +31,8 @@
 - 2.29.20230516：优化5M以上apng动图压缩率
 
 #### <font color=green>防丢失</font>
-<!-- - 微信号：mtreeah (提供售后及咨询服务) -->
-- 微信号：mtreeah (提供售后及咨询服务)
+<!-- - 微信号：mtreeah (建议添加，可提供售后及咨询服务) -->
+- 微信号：mtreeah (建议添加，可提供售后及咨询服务)
 - 公众号：生长之树
 <center><img src="../../../assets/qrcode_for.jpg" width="200px"></center>
 
