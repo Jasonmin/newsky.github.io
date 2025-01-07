@@ -26,6 +26,9 @@
 [查看](../../univer/install.md)
 
 #### <font color=green>功能汇聚</font>
+- AI Chat
+  - 集成全球顶级AI大模型公司产品：OpenAI - gpt，Anthropic - claude，Google - gemini等
+  - 按量使用，无包月
 - 抠图（使用时可自由选择）
   - removebg海量抠图
   - 优质抠图
